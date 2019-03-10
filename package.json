@@ -1,6 +1,6 @@
 {
   "name": "open-in-explorer",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "open folder in explorer",
   "repository": "https://github.com/xnng/open-in-explorer.git",
   "main": "app.js",
