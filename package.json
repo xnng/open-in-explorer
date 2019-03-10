@@ -1,12 +1,15 @@
 {
   "name": "open-in-explorer",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "open folder in explorer",
+  "repository": "https://github.com/xnng/open-in-explorer.git",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "explorer"
+  ],
+  "author": "xnng",
+  "license": "MIT"
 }
